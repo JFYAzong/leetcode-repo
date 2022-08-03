@@ -14,3 +14,4 @@
     }
     return [];
 };
+console.log(twoSum)
