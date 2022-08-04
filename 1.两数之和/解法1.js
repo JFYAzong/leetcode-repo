@@ -14,6 +14,6 @@ var twoSum = function (nums, target) {
     }
     return [];
 };
-
-a = twoSum([1,2,3,4], 5);
+nums = [1,2,3,4];
+a = twoSum(nums, 5);
 console.log(a);
