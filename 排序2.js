@@ -50,4 +50,4 @@ function compare(a, b){
       return 0;
 }
 objs.sort(compare);
-console.log(objs);
+//console.log(objs);
